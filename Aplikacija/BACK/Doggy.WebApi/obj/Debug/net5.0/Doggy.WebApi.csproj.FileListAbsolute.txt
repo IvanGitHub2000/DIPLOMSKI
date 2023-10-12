@@ -1,0 +1,807 @@
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.exe
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.deps.json
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.runtimeconfig.json
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.runtimeconfig.dev.json
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\ref\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.pdb
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\Doggy.Model.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\bin\Debug\net5.0\Doggy.Model.pdb
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.AssemblyInfo.cs
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\obj\Debug\net5.0\scopedcss\bundle\Doggy.WebApi.styles.css
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\obj\Debug\net5.0\staticwebassets\Doggy.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.CopyComplete
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\obj\Debug\net5.0\ref\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.pdb
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.genruntimeconfig.cache
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.exe
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.deps.json
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.runtimeconfig.json
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.runtimeconfig.dev.json
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\ref\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.pdb
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.Model.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.Model.pdb
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.AssemblyInfo.cs
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\scopedcss\bundle\Doggy.WebApi.styles.css
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\staticwebassets\Doggy.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.CopyComplete
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\ref\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.pdb
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.genruntimeconfig.cache
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.exe
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.deps.json
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.runtimeconfig.json
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.runtimeconfig.dev.json
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\ref\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.pdb
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.Model.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.Model.pdb
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.AssemblyInfo.cs
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\scopedcss\bundle\Doggy.WebApi.styles.css
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\staticwebassets\Doggy.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.CopyComplete
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\ref\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.pdb
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.genruntimeconfig.cache
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.exe
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.deps.json
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.runtimeconfig.json
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.runtimeconfig.dev.json
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\ref\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.pdb
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\Doggy.Model.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\bin\Debug\net5.0\Doggy.Model.pdb
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.AssemblyInfo.cs
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\obj\Debug\net5.0\scopedcss\bundle\Doggy.WebApi.styles.css
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\obj\Debug\net5.0\staticwebassets\Doggy.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.CopyComplete
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\obj\Debug\net5.0\ref\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.pdb
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.genruntimeconfig.cache
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.exe
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.deps.json
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.runtimeconfig.json
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.runtimeconfig.dev.json
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\ref\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.pdb
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\Doggy.Model.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\bin\Debug\net5.0\Doggy.Model.pdb
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.AssemblyInfo.cs
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\obj\Debug\net5.0\scopedcss\bundle\Doggy.WebApi.styles.css
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\obj\Debug\net5.0\staticwebassets\Doggy.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.CopyComplete
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\obj\Debug\net5.0\ref\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.pdb
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.genruntimeconfig.cache
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.exe
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.deps.json
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.runtimeconfig.json
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.runtimeconfig.dev.json
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\ref\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.pdb
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\Doggy.Model.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\bin\Debug\net5.0\Doggy.Model.pdb
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.AssemblyInfo.cs
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\obj\Debug\net5.0\scopedcss\bundle\Doggy.WebApi.styles.css
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\obj\Debug\net5.0\staticwebassets\Doggy.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.CopyComplete
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\obj\Debug\net5.0\ref\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.pdb
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.genruntimeconfig.cache
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.exe
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.deps.json
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.runtimeconfig.json
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.runtimeconfig.dev.json
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\ref\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.pdb
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Doggy.Model.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Doggy.Model.pdb
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.AssemblyInfo.cs
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\obj\Debug\net5.0\scopedcss\bundle\Doggy.WebApi.styles.css
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\obj\Debug\net5.0\staticwebassets\Doggy.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.CopyComplete
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\obj\Debug\net5.0\ref\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.pdb
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.genruntimeconfig.cache
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.exe
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.deps.json
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.runtimeconfig.json
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.runtimeconfig.dev.json
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\ref\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.pdb
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Doggy.Model.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\bin\Debug\net5.0\Doggy.Model.pdb
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.AssemblyInfo.cs
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\obj\Debug\net5.0\scopedcss\bundle\Doggy.WebApi.styles.css
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\obj\Debug\net5.0\staticwebassets\Doggy.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.CopyComplete
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\obj\Debug\net5.0\ref\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.pdb
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.genruntimeconfig.cache
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.exe
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.deps.json
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.runtimeconfig.json
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.runtimeconfig.dev.json
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\ref\Doggy.WebApi.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.pdb
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.Model.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.Model.pdb
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.AssemblyReference.cache
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.AssemblyInfoInputs.cache
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.AssemblyInfo.cs
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\scopedcss\bundle\Doggy.WebApi.styles.css
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\staticwebassets\Doggy.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.CopyComplete
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\ref\Doggy.WebApi.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.pdb
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.genruntimeconfig.cache
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.exe
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.deps.json
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.runtimeconfig.json
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.runtimeconfig.dev.json
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\ref\Doggy.WebApi.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.pdb
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.Model.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.Model.pdb
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\staticwebassets\Doggy.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\staticwebassets\Doggy.WebApi.StaticWebAssets.xml
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\scopedcss\bundle\Doggy.WebApi.styles.css
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.CopyComplete
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\ref\Doggy.WebApi.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.pdb
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.genruntimeconfig.cache
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.StaticWebAssets.xml
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.exe
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.deps.json
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.runtimeconfig.json
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.runtimeconfig.dev.json
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\ref\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.pdb
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.Model.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.Model.pdb
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.AssemblyInfo.cs
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\scopedcss\bundle\Doggy.WebApi.styles.css
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\staticwebassets\Doggy.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.CopyComplete
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\ref\Doggy.WebApi.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.pdb
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.genruntimeconfig.cache
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.StaticWebAssets.xml
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.StaticWebAssets.xml
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.StaticWebAssets.xml
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.exe
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.deps.json
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.runtimeconfig.json
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.runtimeconfig.dev.json
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.WebApi.pdb
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.Model.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\bin\Debug\net5.0\Doggy.Model.pdb
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\scopedcss\bundle\Doggy.WebApi.styles.css
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\staticwebassets\Doggy.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\staticwebassets\Doggy.WebApi.StaticWebAssets.Pack.cache
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\staticwebassets\msbuild.Doggy.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\staticwebassets\msbuild.build.Doggy.WebApi.props
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Doggy.WebApi.props
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Doggy.WebApi.props
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.csproj.CopyComplete
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\refint\Doggy.WebApi.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.pdb
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\Doggy.WebApi.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.WebApi\obj\Debug\net5.0\ref\Doggy.WebApi.dll

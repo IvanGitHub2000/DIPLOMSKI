@@ -1,0 +1,216 @@
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.deps.json
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.DataLayer\bin\Debug\net5.0\ref\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.DataLayer\bin\Debug\net5.0\Doggy.Model.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.DataLayer\bin\Debug\net5.0\Doggy.Model.pdb
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.AssemblyInfo.cs
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.CopyComplete
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.DataLayer\obj\Debug\net5.0\ref\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.runtimeconfig.json
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.runtimeconfig.dev.json
+C:\Users\Marko\Desktop\Doggy\Doggy\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.genruntimeconfig.cache
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.deps.json
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.runtimeconfig.json
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.runtimeconfig.dev.json
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\ref\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.Model.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.Model.pdb
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.AssemblyInfo.cs
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.CopyComplete
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\ref\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.genruntimeconfig.cache
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.deps.json
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.runtimeconfig.json
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.runtimeconfig.dev.json
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\ref\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.Model.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.Model.pdb
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.AssemblyInfo.cs
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.CopyComplete
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\ref\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Marko\Desktop\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.genruntimeconfig.cache
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.deps.json
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.runtimeconfig.json
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.runtimeconfig.dev.json
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.DataLayer\bin\Debug\net5.0\ref\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.DataLayer\bin\Debug\net5.0\Doggy.Model.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.DataLayer\bin\Debug\net5.0\Doggy.Model.pdb
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.AssemblyInfo.cs
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.CopyComplete
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.DataLayer\obj\Debug\net5.0\ref\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Marko\Desktop\Doggy - LOKALNO\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.genruntimeconfig.cache
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.deps.json
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.runtimeconfig.json
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.runtimeconfig.dev.json
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.DataLayer\bin\Debug\net5.0\ref\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.DataLayer\bin\Debug\net5.0\Doggy.Model.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.DataLayer\bin\Debug\net5.0\Doggy.Model.pdb
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.AssemblyInfo.cs
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.CopyComplete
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.DataLayer\obj\Debug\net5.0\ref\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Marko\Desktop\Doggy - LOKALNO1\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.genruntimeconfig.cache
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.deps.json
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.runtimeconfig.json
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.runtimeconfig.dev.json
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.DataLayer\bin\Debug\net5.0\ref\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.DataLayer\bin\Debug\net5.0\Doggy.Model.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.DataLayer\bin\Debug\net5.0\Doggy.Model.pdb
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.AssemblyInfo.cs
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.CopyComplete
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.DataLayer\obj\Debug\net5.0\ref\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Marko\Desktop\Doggy - M4\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.genruntimeconfig.cache
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.deps.json
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.runtimeconfig.json
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.runtimeconfig.dev.json
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\bin\Debug\net5.0\ref\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\bin\Debug\net5.0\Doggy.Model.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\bin\Debug\net5.0\Doggy.Model.pdb
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.AssemblyInfo.cs
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.CopyComplete
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\obj\Debug\net5.0\ref\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Marko\Desktop\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.genruntimeconfig.cache
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.deps.json
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.runtimeconfig.json
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.runtimeconfig.dev.json
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\bin\Debug\net5.0\ref\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\bin\Debug\net5.0\Doggy.Model.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\bin\Debug\net5.0\Doggy.Model.pdb
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.AssemblyInfo.cs
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.CopyComplete
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\obj\Debug\net5.0\ref\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Marko\Desktop\proba\si.22.06.doggy\Aplikacija\Doggy - SERVERSKI DEO\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.genruntimeconfig.cache
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.deps.json
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.runtimeconfig.json
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.runtimeconfig.dev.json
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\ref\Doggy.DataLayer.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.Model.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.Model.pdb
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.AssemblyReference.cache
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.AssemblyInfo.cs
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.CopyComplete
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\ref\Doggy.DataLayer.dll
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Vaio\Desktop\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.deps.json
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.runtimeconfig.json
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.runtimeconfig.dev.json
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\ref\Doggy.DataLayer.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.Model.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.Model.pdb
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.CopyComplete
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\ref\Doggy.DataLayer.dll
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Ivan\Desktop\PROJEKAT\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.genruntimeconfig.cache
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.deps.json
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.runtimeconfig.json
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.runtimeconfig.dev.json
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\ref\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.Model.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.Model.pdb
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.AssemblyInfo.cs
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.CopyComplete
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\ref\Doggy.DataLayer.dll
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Marko\Desktop\Repo za History\si.22.06.doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.deps.json
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.runtimeconfig.json
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.runtimeconfig.dev.json
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.Model.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\bin\Debug\net5.0\Doggy.Model.pdb
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.csproj.CopyComplete
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\refint\Doggy.DataLayer.dll
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.pdb
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\Doggy.DataLayer.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\DIPLOMSKI\SWE_Doggy\Aplikacija\Doggy - BACK\Doggy.DataLayer\obj\Debug\net5.0\ref\Doggy.DataLayer.dll
